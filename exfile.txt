@@ -1,0 +1,19 @@
+#fisier config cfg
+Variables:
+    A
+    B
+End
+Terminals:
+    0
+    1
+    #
+    K
+    E
+End
+Rules:
+    A=0A1
+    A=B
+    A=K
+    B=#
+    B=EKK
+End
